@@ -20,3 +20,5 @@ git lfs pull --include='rendering/omarchy-arm64/*.png' --exclude=''
 
 Git LFS must be available to materialize image bytes; a pointer-only checkout is not a verified fixture download.
 The fixture manifest records exact SHA256 object IDs and sizes.
+
+[Verified transfer record](evidence/transfer-2026-10-29.json) documents the fresh HTTPS clone, initially empty LFS cache, materialized PNG hashes, and published Git pointer blobs at exact source commit `f34e5b99572429ae57d90aa9b4fd9c56f885eae0`.

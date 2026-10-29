@@ -1,0 +1,34 @@
+{
+  "observed_at": "2026-10-29T21:11:37.208655+00:00",
+  "repository": "alexandru-savinov/agterm-omarchy-fixtures",
+  "source_commit": "f34e5b99572429ae57d90aa9b4fd9c56f885eae0",
+  "git_lfs_version": "3.8.1",
+  "method": "Fresh HTTPS single-branch clone with smudge skipped; verified pointer text and empty independent LFS object cache; explicitly pulled only rendering/omarchy-arm64 PNGs; compared image magic, size and SHA256 in both checkout and object cache.",
+  "initial_lfs_object_count": 0,
+  "verified_lfs_object_count": 2,
+  "git_object_alternates_used": false,
+  "total_image_bytes": 603409,
+  "files": [
+    {
+      "path": "terminal-red.png",
+      "bytes": 257475,
+      "sha256": "116641d6854c192a0875fadb77790f16e8aa9a0a4595bc66418297ced7e9f48c",
+      "lfs_oid": "sha256:116641d6854c192a0875fadb77790f16e8aa9a0a4595bc66418297ced7e9f48c",
+      "png_bytes_verified": true,
+      "fresh_object_cache_verified": true,
+      "published_pointer_git_blob": "974d5abb635181a41dfa658667cfc2e79d8564e6",
+      "published_pointer_bytes": 131
+    },
+    {
+      "path": "terminal-green.png",
+      "bytes": 345934,
+      "sha256": "cb7cbddf18864ec4d110f0301c4cfe6fdcde53483e198458de2bc50ab7fd3f48",
+      "lfs_oid": "sha256:cb7cbddf18864ec4d110f0301c4cfe6fdcde53483e198458de2bc50ab7fd3f48",
+      "png_bytes_verified": true,
+      "fresh_object_cache_verified": true,
+      "published_pointer_git_blob": "90bf2d5405001e6d0ccd23fec626722ffdea6934",
+      "published_pointer_bytes": 131
+    }
+  ],
+  "account_usage_observation": "Personal billing usage API unavailable to existing token (missing user scope); remaining allowance unverified. Actual bounded upload and download accepted with no payment/quota gate; no billing or OAuth setting changed."
+}
